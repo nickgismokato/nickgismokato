@@ -1,3 +1,6 @@
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Nickgismokato&txt=Full%20stack%20Developer%20"></p>
+
+
 ## Hi there! 👋
 
 I'm Nickgismokato, a passionate developer specializing in Python and C#. I love creating tools that enhance productivity and make life easier!
