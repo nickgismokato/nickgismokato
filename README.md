@@ -83,13 +83,17 @@ I'm a software developer with experience in Python and C#. Currently, I'm explor
 - [MatRevy_Sound](https://github.com/nickgismokato/MatRevy_Sound) - Sound project related to MatRevy (0 stars, Unknown)
 
 ## GitHub Stats
-
+<div align="center">
+<p>
 🌟 **Public Repositories**: 6  
 👥 **Followers**: 3  
-🔗 **Following**: 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickgismokato&show_icons=true&theme=radical)
+🔗 **Following**: 1
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nickgismokato&show_icons=true&theme=radical"/>
+</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgismokato&hide_border=true&layout=compact&theme=radical" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickgismokato&hide_border=true&layout=compact" align="left" />  
+<br/>  
 
 ## Recent Activity
 
