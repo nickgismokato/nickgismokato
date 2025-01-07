@@ -89,6 +89,8 @@ I'm a software developer with experience in Python and C#. Currently, I'm explor
 🔗 **Following**: 1  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickgismokato&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickgismokato&hide_border=true&layout=compact" align="left" />  
+
 ## Recent Activity
 
 1. **Updated** [Satyr-Scheduler](https://github.com/nickgismokato/Satyr-Scheduler) - 08/30/2024  
